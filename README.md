@@ -1,4 +1,4 @@
-# Fakturapp for LB-Phone (OKOKBilling - QB)
+# INvoice App / Billing App for LB-Phone (OKOKBilling - QB)
 
 LB-Phone: 
 
@@ -8,9 +8,9 @@ QB: https://okok.tebex.io/package/5246435
 
 Disclaimer:
 
-Dette bør fungere på ESX også så lenge eksporten for å hente faktureringsmenyen er den samme som qb!
+This should work on ESX too as long as the export to get the billing menu is the same as qb!
 
-# legg til i lb-phone\config\config.json
+# add to lb-phone\config\config.json
 
 # Preview i Appstore
 ![alt text](image.png)
