@@ -1,3 +1,6 @@
+#Backstory and reason for making this:
+
+**Since I haven't been able to find any freebies regarding this topic, I sat down and made it myself for the community and anyone who has been looking for this - its licensed under gnu as i dont feel satisfied in making people pay for a few lines"
 # INvoice App / Billing App for LB-Phone (OKOKBilling - QB)
 
 LB-Phone: 
